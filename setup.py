@@ -43,7 +43,7 @@ install_requires = [
     'google-auth>=1.4.1',
     'google-auth-httplib2>=0.0.3',
     'six>=1.6.1,<2dev',
-    'uritemplate>=3.0.0,<4dev',
+    'uritemplate>=3.0.0',
 ]
 
 long_desc = """The Google API Client for Python is a client library for
